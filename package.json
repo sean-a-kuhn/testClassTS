@@ -1,0 +1,15 @@
+{
+  "name": "testclass",
+  "version": "1.0.0",
+  "description": "learning to employ Classes with typescript/javascript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.3.3333"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
